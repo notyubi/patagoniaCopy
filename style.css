@@ -1,0 +1,45 @@
+.ui.category.search{
+  border: none;
+  box-shadow: none;
+}
+
+.ui.big.menu{
+  background-color: transparent;
+  height: 70px;
+}
+
+.header.item{
+  width: 208px;
+}
+
+.ui.dropdown.sale.item{
+  background-color: #DB2828;
+  width: 140px;
+  text-align-all: center;
+}
+
+.ui.dropdown.shop.item {
+  width: 165px;
+}
+
+.ui.dropdown.info.item {
+  width: 225px;
+}
+
+.ui.darn.category.search{
+  width: 535px;
+}
+
+.active.red.item{
+  font-size: 20px;
+}
+
+.text{
+  font-size: 19px;
+  box-sizing: border-box;
+  font-family: "Avenir Next LT W02 Bold",Helvetica,Arial,sans-serif;
+}
+
+.shop.text{
+  text-indent: 40px;
+}
